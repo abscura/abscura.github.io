@@ -2,7 +2,9 @@
 
 #### Repository for goodies that we use for our own situations...
 
-##### SHIZ WE DO & LIKE
+https://github.com/blvkoblsk
+
+##### SHIZ I LIKE TO DO
 
  * Art - Digital and Physical, Photo Manipulation, Glitch Art, etc.
  * Music - Production, Beats, Ambience, Psychedelic
@@ -11,7 +13,8 @@
 
 #####  IN PROGRESS  +/-  TODO: 
 
-- Sleep.
+ - Too much to list.
+ - Sleep.
 
 ---
 
