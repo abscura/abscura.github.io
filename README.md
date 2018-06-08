@@ -1,8 +1,6 @@
 # BLVKOBLSK ON GITHUB
 
-#### Repository for goodies that we use for our own situations...
-
-REPO : <https://github.com/blvkoblsk>
+#### Repository for code I find interesting and useful...
 
 ##### SHIZ I LIKE TO DO
 
@@ -18,9 +16,13 @@ REPO : <https://github.com/blvkoblsk>
 
 ---
 
+- REPO : <https://github.com/blvkoblsk>
+- WEB  : <http://lucfr.com>
+
+---
      ____      _____ _____ __________ __________ _________
     /   /_____ \   / \   //   /_____//   /_____/|    _o___)
     \___\_____\/___\_/___\\___\%%%%%'\___\*****^|___|\____\
      `22211193'`663399933' `4%%%%%%7/``$&&'      `$%' '666'
       -----------------------------------------------------
-      BLVKOBLSK 2018 | LUCFR.COM
+      BLVKOBLSK 2018 | LUCFR.COM 
