@@ -1,3 +1,3 @@
-# blvkoblsk.github.io
+# Hosted by Github
 
-[site](https://blvkoblsk.github.io)
+[WEBPAGE](https://blvkoblsk.github.io) - Info about this repository
