@@ -17,6 +17,7 @@
     <title>LUCFR - Art . Web . Music</title>
     <link rel="stylesheet" href="css/bulma.min.css">
     <link rel="stylesheet" href="css/lucfrcss.css">
+    <link rel="stylesheet" href="https://unpkg.com/bulma-modal-fx/dist/css/modal-fx.min.css" />
     <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
   </head>
   <body>
@@ -34,11 +35,51 @@
     <div class="content">
         <h2>BLVKOBLSK ON GITHUB</h2>
         <p>Repository for <a title="Repositories" href="https://github.com/blvkoblsk?tab=repositories" target="_blank">code</a> I find interesting and useful.</p>
-        <p>While most of the repos you'll find here are forks from other people on Github, I am slowly adding my own code for things as time permits.</p>
-        
+        <p>While most of the repos you'll find here are forks from other <a title="Explore Github" href="https://github.com/explore" target="_blank">people</a> on Github, I am slowly adding my own code for things as time permits.</p>
+
+        <button class="button is-light modal-button" data-target="modal-id" aria-haspopup="true">Web Design Links</button>
+        <div id="modal-id" class="modal modal-fx-superScaled">
+                <div class="modal-background"></div>
+                <div class="modal-card">
+                  <header class="modal-card-head has-background-black">
+                    <p class="modal-card-title has-text-grey-lighter has-text-right has-text-weight-light is-uppercase is-small">Web Design Links</p>
+                  </header>
+                  <section class="modal-card-body">
+                    <p class="has-text-weight-semibold">Some awesome web design resources I use for reference.</p>
+                    <hr size="1" class="is-grey-light">
+                    <h4>For Developers</h4>
+                    <ul>
+                        <li><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">Developers (Mozilla)</a></li>
+                        <li><a href="https://cloud.google.com/" target="_blank">Google Cloud Platform - Small to Full Scale Anything</a></li>
+                        <li><a href="https://www.netlify.com/" target="_blank">Netlify - Build Modern Web Projects</a></li>
+                        <li><a href="https://www.heroku.com/" target="_blank">Heroku - Build Apps on the Cloud</a></li>
+                    </ul>
+                    <hr size="1" class="is-grey-light">
+                    <h4>HTML Resources</h4>
+                    <ul>
+                        <li><a href="https://htmlreference.io/" target="_blank">HTML Reference Guide</a></li>
+                        <li><a href="https://htmleditor.io/" target="_blank">HTML Editor Online</a></li>
+                    </ul>
+                    <hr size="1" class="is-grey-light">
+                    <h4>CSS : Colors &amp; Gradients, etc.</h4>
+                        <ul>
+                            <li><a href="https://css-tricks.com/almanac/" target="_blank">CSS-Tricks / CSS Almanac</a></li></a></li>
+                            <li><a href="https://mycolor.space/" target="_blank">ColorSpace Gradients and Palettes (Generator too!)</a></li>
+                            <li><a href="https://cssgradient.io/" target="_blank">CSS Gradient (Color Picker and More)</a></li>
+                            <li><a href="http://www.color-hex.com/" target="_blank">Color Hex Codes (RGB,HSL,HSV and CMYK)</a></li>
+                        </ul>
+                    <hr size="1" class="is-grey-light">
+
+                  </section>
+                  <footer class="modal-card-foot has-background-black">
+                    <button class="modal-button-close button is-black is-small has-text-weight-semibold">Exit</button>
+                  </footer>
+                </div>
+        </div>
+
         <h3>Hobbies</h3>   
             <ul>
- 		<li><b>Art</b> - Painting, Digital/Photo Manipulation, Glitch, Icons, Symbols and More. <a title="BLVKOBLSK Art" href="https://sites.google.com/view/lucfr/visualtrauma" target="_blank">&#1007</a></li>
+ 		    <li><b>Art</b> - Painting, Digital/Photo Manipulation, Glitch, Icons, Symbols and More. <a title="BLVKOBLSK Art" href="https://sites.google.com/view/lucfr/visualtrauma" target="_blank">&#1007</a></li>
                 <li><b>Music</b> - Production, Sound Design, Beats, Ambience, Cinematic and Psychedelic. <a title="BLVKOBSLK Music" href="https://soundcloud.com/blvkoblsk" target="_blank">&#1007</a></li>
                 <li><b>Code</b> - HTML, CSS, Sass, Web Apps, JavaScript, CLI, Bash, Shell Scripts, etc.</li>
                 <li><b>Servers</b> - Running Servers / Cloud VPS, Linux (Arch, Debian, FreeBSD), macOS, NGINX and so on.</li>
@@ -66,6 +107,9 @@
 </div>
 </section>
 <!-- / CONTENT -->
+<!-- JAVASCRIPT -->
+    <script type="text/javascript" src="https://unpkg.com/bulma-modal-fx/dist/js/modal-fx.min.js"></script>
+<!-- / JAVASCRIPT -->
 <!-- / BODY -->
   </body>
 </html>
