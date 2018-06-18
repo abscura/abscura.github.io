@@ -1,0 +1,10 @@
+{
+  "name": "blvkoblsk.github.io",
+  "version": "1.0.0",
+  "description": "Development Site",
+  "main": "index.html",
+  "repository": "https://github.com/blvkoblsk/blvkoblsk.github.io.git",
+  "author": "blvkobsk <blvkobsk@gmail.com>",
+  "license": "CC-BY-NC-ND-4.0",
+  "private": false
+}
