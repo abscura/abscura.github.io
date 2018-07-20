@@ -1,7 +1,11 @@
 html {
     color: #939393;
-    /* font-size: 1em;
-    line-height: 1.4; */
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
 }
 
 ::-moz-selection {
