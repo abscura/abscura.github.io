@@ -1,3 +1,19 @@
+html {
+    color: #939393;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
 a,
 a:active,
 a:visited {
